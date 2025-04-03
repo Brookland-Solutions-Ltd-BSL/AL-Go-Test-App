@@ -1,6 +1,8 @@
 {
-  "country": "us",
+  "country": "gb",
   "appFolders": [],
   "testFolders": [],
-  "bcptTestFolders": []
+  "bcptTestFolders": [],
+  "enablePerTenantExtensionCop": false,
+  "artifact": "//25.4.29661.29959/gb"
 }
