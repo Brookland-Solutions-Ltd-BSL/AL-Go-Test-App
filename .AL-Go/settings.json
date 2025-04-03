@@ -1,6 +1,8 @@
 {
   "country": "gb",
-  "appFolders": [],
+  "appFolders": [
+    ".MainApp"
+  ],
   "testFolders": [],
   "bcptTestFolders": [],
   "enablePerTenantExtensionCop": false,
