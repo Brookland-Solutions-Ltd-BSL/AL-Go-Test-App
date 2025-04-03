@@ -1,8 +1,12 @@
 {
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@main",
+  "Environments": [
+    "BSL_SANDBOX"
+  ],
   "DeployToBSL_SANDBOX": {
     "EnvironmentName": "Sandbox",
+    "AuthContext": "BSL_SANDBOX_AUTHCONTEXT",
     "ContinuousDeployment": true
   }
 }
